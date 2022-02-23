@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">primerproyecto</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="registrar_ususario">Registrar ususario</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account_sign_in">dont have an account sign in</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_have_an_account_login">already have an account login</string>
+    <string name="ya_tienes_una_cuenta">ya tienes una cuenta?</string>
+    <string name="already_have_an_account_login1">already have an account? login</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="bus">Buscar</string>
+    <string name="names">Name:</string>
+    <string name="emails">Email:</string>
+    <string name="pais">pais</string>
+    <string name="provincia">Provincia</string>
+    <string name="direccion">Direccion</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Telefono</string>
+</resources>
